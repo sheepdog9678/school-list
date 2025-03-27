@@ -1,0 +1,206 @@
+{
+  "data": [
+    [
+      {
+        "school": "STUYVESANT HIGH SCHOOL",
+        "location": "NEW YORK, NY",
+        "address": "345 CHAMBERS ST 10282",
+        "Harvard": 9,
+        "Princeton": 9,
+        "MIT": 14,
+        "Total": 32,
+        "key": "public"
+      },
+      {
+        "school": "HARKER SCHOOL",
+        "location": "SAN JOSE, CA",
+        "address": "500 SARATOGA AVE 95129",
+        "Harvard": 4,
+        "Princeton": 4,
+        "MIT": 6,
+        "Total": 14,
+        "key": "private"
+      },
+      {
+        "school": "BOSTON LATIN SCHOOL",
+        "location": "BOSTON, MA",
+        "address": "78 AVENUE LOUIS PASTEUR 02115",
+        "Harvard": 7,
+        "Princeton": 4,
+        "MIT": 8,
+        "Total": 19,
+        "key": "public"
+      },
+      {
+        "school": "HUNTER COLLEGE HIGH SCHOOL",
+        "location": "NEW YORK, NY",
+        "address": "71 E 94TH ST 10128",
+        "Harvard": 5,
+        "Princeton": 6,
+        "MIT": 9,
+        "Total": 20,
+        "key": "private"
+      },
+      {
+        "school": "LOWELL HIGH SCHOOL",
+        "location": "SAN FRANCISCO, CA",
+        "address": "1101 EUCLID AVE 94117",
+        "Harvard": 5,
+        "Princeton": 5,
+        "MIT": 7,
+        "Total": 17,
+        "key": "public"
+      },
+      {
+        "school": "MONTGOMERY BLAIR HIGH SCHOOL",
+        "location": "SILVER SPRING, MD",
+        "address": "51 UNIVERSITY BLVD E 20901",
+        "Harvard": 3,
+        "Princeton": 4,
+        "MIT": 7,
+        "Total": 14,
+        "key": "public"
+      },
+      {
+        "school": "PALO ALTO HIGH SCHOOL",
+        "location": "PALO ALTO, CA",
+        "address": "50 EMBARCADERO RD 94301",
+        "Harvard": 4,
+        "Princeton": 3,
+        "MIT": 6,
+        "Total": 13,
+        "key": "public"
+      },
+      {
+        "school": "ACTON-BOXBOROUGH REGIONAL HIGH SCHOOL",
+        "location": "ACTON, MA",
+        "address": "36 CHARTER RD 01720",
+        "Harvard": 2,
+        "Princeton": 3,
+        "MIT": 5,
+        "Total": 10,
+        "key": "public"
+      },
+      {
+        "school": "NEW TRIER HIGH SCHOOL",
+        "location": "WINNETKA, IL",
+        "address": "385 WINNETKA AVE 60093",
+        "Harvard": 4,
+        "Princeton": 5,
+        "MIT": 3,
+        "Total": 12,
+        "key": "public"
+      },
+      {
+        "school": "UNIVERSITY HIGH SCHOOL",
+        "location": "IRVINE, CA",
+        "address": "4771 CAMPUS DR 92612",
+        "Harvard": 3,
+        "Princeton": 3,
+        "MIT": 5,
+        "Total": 11,
+        "key": "public"
+      },
+      {
+        "school": "LA CANADA HIGH SCHOOL",
+        "location": "LA CANADA, CA",
+        "address": "4463 OAK GROVE DR 91011",
+        "Harvard": 2,
+        "Princeton": 2,
+        "MIT": 3,
+        "Total": 7,
+        "key": "public"
+      },
+      {
+        "school": "TORREY PINES HIGH SCHOOL",
+        "location": "SAN DIEGO, CA",
+        "address": "3710 DEL MAR HEIGHTS RD 92130",
+        "Harvard": 3,
+        "Princeton": 3,
+        "MIT": 4,
+        "Total": 10,
+        "key": "public"
+      },
+      {
+        "school": "MISSION SAN JOSE HIGH SCHOOL",
+        "location": "FREMONT, CA",
+        "address": "41717 PALM AVE 94539",
+        "Harvard": 3,
+        "Princeton": 3,
+        "MIT": 4,
+        "Total": 10,
+        "key": "public"
+      },
+      {
+        "school": "RIDGE HIGH SCHOOL",
+        "location": "BASKING RIDGE, NJ",
+        "address": "268 S FINLEY AVE 07920",
+        "Harvard": 2,
+        "Princeton": 3,
+        "MIT": 3,
+        "Total": 8,
+        "key": "public"
+      },
+      {
+        "school": "LA JOLLA HIGH SCHOOL",
+        "location": "LA JOLLA, CA",
+        "address": "750 NAUTILUS ST 92037",
+        "Harvard": 2,
+        "Princeton": 3,
+        "MIT": 4,
+        "Total": 9,
+        "key": "public"
+      },
+      {
+        "school": "WEST WINDSOR-PLAINSBORO HIGH SCHOOL SOUTH",
+        "location": "PLAINSBORO, NJ",
+        "address": "346 CLARKSVILLE RD 08550",
+        "Harvard": 3,
+        "Princeton": 3,
+        "MIT": 4,
+        "Total": 10,
+        "key": "public"
+      },
+      {
+        "school": "THE DALTON SCHOOL",
+        "location": "NEW YORK, NY",
+        "address": "108 E 89TH ST 10128",
+        "Harvard": 6,
+        "Princeton": 5,
+        "MIT": 7,
+        "Total": 18,
+        "key": "private"
+      },
+      {
+        "school": "THE BREARLEY SCHOOL",
+        "location": "NEW YORK, NY",
+        "address": "610 E 83RD ST 10028",
+        "Harvard": 5,
+        "Princeton": 5,
+        "MIT": 6,
+        "Total": 16,
+        "key": "private"
+      },
+      {
+        "school": "POLY PREP COUNTRY DAY SCHOOL",
+        "location": "BROOKLYN, NY",
+        "address": "9216 7TH AVE 11228",
+        "Harvard": 3,
+        "Princeton": 3,
+        "MIT": 4,
+        "Total": 10,
+        "key": "private"
+      },
+      {
+        "school": "HORACE MANN SCHOOL",
+        "location": "BRONX, NY",
+        "address": "231 W 246TH ST 10471",
+        "Harvard": 7,
+        "Princeton": 6,
+        "MIT": 8,
+        "Total": 21,
+        "key": "private"
+      }
+    ]
+  ]
+}
